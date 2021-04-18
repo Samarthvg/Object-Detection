@@ -6,7 +6,7 @@ Real-time Object Detection using state-of-the-art You Only Look Once (YOLO) algo
 
 ## Requirements
 
-1. [Tesorflow/Tensorflow-gpu](https://www.tensorflow.org/install/gpu) [Compatibility](https://www.tensorflow.org/install/source#gpu)
+1. [Tesorflow/Tensorflow-gpu](https://www.tensorflow.org/install/gpu) ([Compatibility](https://www.tensorflow.org/install/source#gpu))
 2. [openCV](https://pypi.org/project/opencv-python/)
 3. [Setting up Darkflow](https://github.com/thtrieu/darkflow)
 4. [Weights and cfg file](https://pjreddie.com/darknet/yolo/)
