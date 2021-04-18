@@ -11,7 +11,7 @@ options = {
 
 tfnet = TFNet(options)
 
-img = cv2.imread('doge.jpg', cv2.IMREAD_COLOR)
+img = cv2.imread('Image.jpg', cv2.IMREAD_COLOR) # Your Image name here instead of image.jpg.
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
 result = tfnet.return_predict(img)
