@@ -1,7 +1,8 @@
 # Object-Detection
 Real-time Object Detection using state-of-the-art You Only Look Once (YOLO) algorithm.
 
-(https://user-images.githubusercontent.com/69038520/115148486-74734680-a07d-11eb-9586-43f9e35ff3d6.png)
+![ez](https://user-images.githubusercontent.com/69038520/115148486-74734680-a07d-11eb-9586-43f9e35ff3d6.png)
+
 
 ## Requirements
 
