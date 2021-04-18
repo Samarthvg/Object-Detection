@@ -23,5 +23,10 @@ Real-time Object Detection using state-of-the-art You Only Look Once (YOLO) algo
  + Enter your video file name instead of "video.mp4"
  + Leave off --gpu 0.6 if you are not using Tensorflow-gpu.
 
+### Process video instead of real-time detection in code.
+   
+  + Pass your file name as parameter instead of 0. 
+```capture = cv2.VideoCapture("video.mp4")
+```
 
  
