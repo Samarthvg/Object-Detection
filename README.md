@@ -25,7 +25,7 @@ Real-time Object Detection using state-of-the-art You Only Look Once (YOLO) algo
  + Leave off --gpu 0.6 if you are not using Tensorflow-gpu.
 
 
-### Process video instead of real-time detection in code.
+### Process video instead of real-time detection.
    
   + Pass your file name as parameter instead of 0. 
 ```python
