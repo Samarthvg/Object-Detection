@@ -1,7 +1,9 @@
 # Object-Detection
 Real-time Object Detection using state-of-the-art You Only Look Once (YOLO) algorithm.
 
-### Requirements
+(https://user-images.githubusercontent.com/69038520/115148486-74734680-a07d-11eb-9586-43f9e35ff3d6.png)
+
+## Requirements
 
 1. [Tesorflow/Tensorflow-gpu](https://www.tensorflow.org/install/gpu)
 2. [openCV](https://pypi.org/project/opencv-python/)
@@ -10,7 +12,7 @@ Real-time Object Detection using state-of-the-art You Only Look Once (YOLO) algo
 
  + Create a weights folder in darkflow and paste the weights in there.
 
-5. At this poit you can start proccessing a video.
+### At this poit you can start proccessing a video.
 
  + Move the video into darkflow-master.
  + Open cmd from there and use the command.
@@ -19,4 +21,6 @@ Real-time Object Detection using state-of-the-art You Only Look Once (YOLO) algo
 
  + Enter your video file name instead of "video.mp4"
  + Leave off --gpu 0.6 if you are not using Tensorflow-gpu.
+
+
  
