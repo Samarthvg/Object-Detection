@@ -29,8 +29,7 @@ Real-time Object Detection using state-of-the-art You Only Look Once (YOLO) algo
 
 
 ### Swap out real-time detection to process a video.
-   
-  + Pass your file name as parameter instead of 0 in detection.py
+  
 ```python
 capture = cv2.VideoCapture(filename)
 ```
