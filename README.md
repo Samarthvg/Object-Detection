@@ -32,7 +32,7 @@ Real-time Object Detection using state-of-the-art You Only Look Once (YOLO) algo
    
   + Pass your file name as parameter instead of 0 in detection.py
 ```python
-capture = cv2.VideoCapture("video.mp4")
+capture = cv2.VideoCapture(filename)
 ```
 
  
